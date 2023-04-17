@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses>
+<course>
+    <id>1</id>
+    <name>Tieng Anh 1</name>
+    <credits>3.0</credits>
+    <teacher>
+        <id>1</id>
+        <name>Khoa Co</name>
+    </teacher>
+</course>
+<course>
+    <id>2</id>
+    <name>Tieng Anh 2</name>
+    <credits>4</credits>
+    <teacher>
+        <id>2</id>
+        <name>Nguyen Van Thuan</name>
+    </teacher>
+</course>
+
+</courses>

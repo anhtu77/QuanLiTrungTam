@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<classes>
+<class>
+  <id>1</id>
+  <name>Class A</name>
+  <teacher>
+    <id>1</id>
+    <name>Khoa Co</name>
+  </teacher>
+  <students>
+    <student>
+      <id>1</id>
+      <name>Nguyen Anh Tu</name>
+      <age>20</age>
+    </student>
+    
+    </students>
+</class>
+<class>
+  <id>2</id>
+  <name>Class B</name>
+  <teacher>
+    <id>2</id>
+    <name>Nguyen Van Thuan</name>
+  </teacher>
+  <students>
+   <student>
+      <id>2</id>
+      <name>Duong Van Hung</name>
+      <age>20</age>
+    </student>
+    
+    </students>
+</class>
+</classes>

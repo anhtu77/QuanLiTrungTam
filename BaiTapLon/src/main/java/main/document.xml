@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+  <classes>
+    <class>
+      <id>1</id>
+      <name>Class A</name>
+      <teacher>
+        <id>1</id>
+        <name>Khoa Co</name>
+      </teacher>
+      <students>
+        <student>
+          <id>1</id>
+          <name>Nguyen Anh Tu</name>
+           <age>20</age>
+           <address>Ha Noi</address>
+           <gpa>3.8</gpa>
+        </student>
+        <student>
+          <id>2</id>
+          <name>Duong Van Hung</name>
+        </student>
+      </students>
+    </class>
+    <class>
+      <id>2</id>
+      <name>Class B</name>
+      <teacher>
+        <id>2</id>
+        <name>Teacher B</name>
+      </teacher>
+      <students>
+        <student>
+          <id>3</id>
+          <name>Student B1</name>
+        </student>
+        <student>
+          <id>4</id>
+          <name>Student B2</name>
+        </student>
+      </students>
+    </class>
+  </classes>
+  <students>
+    <student>
+      <id>1</id>
+      <name>Student A1</name>
+    </student>
+    <student>
+      <id>2</id>
+      <name>Student A2</name>
+    </student>
+    <student>
+      <id>3</id>
+      <name>Student B1</name>
+    </student>
+    <student>
+      <id>4</id>
+      <name>Student B2</name>
+    </student>
+  </students>
+  <teachers>
+    <teacher>
+      <id>1</id>
+      <name>Teacher A</name>
+      <classes>
+        <class>
+          <id>1</id>
+          <name>Class A</name>
+        </class>
+      </classes>
+    </teacher>
+    <teacher>
+      <id>2</id>
+      <name>Teacher B</name>
+      <classes>
+        <class>
+          <id>2</id>
+          <name>Class B</name>
+        </class>
+      </classes>
+    </teacher>
+  </teachers>
+</document>
